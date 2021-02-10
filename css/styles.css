@@ -1,0 +1,156 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-weight: bolder;
+}
+
+hr {
+  border: none;
+  width: 80px;
+  height: 1px;
+  border-top: 10px dotted #ece2e1;
+}
+
+.top-container {
+  background-color: #E4f9f5;
+  padding-top: 100px;
+}
+
+h1 {
+  color: #66bfbf;
+  font-size: 562.5%;
+  margin: 50px auto -15px auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #66bfbf;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-weight: normal;
+  font-size: 2.3em;
+}
+
+h3 {
+  color: #11999e;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.programmer-h2 {
+  color: #66bfbf;
+  font-size: 2.5rem;
+  font-weight: normal;
+  display: block;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+/*----------IMG----------*/
+.bottom-cloud {
+  position: absolute;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 500px;
+  top: 60px;
+}
+
+/*-----Profile----*/
+.bruce-photo {
+  padding-top: 80px;
+  padding-bottom: 10px;
+}
+
+.profile-p {
+  margin: auto auto 60px;
+  line-height: 2;
+  width: 25%
+}
+
+/*-----Skill----*/
+.skills {
+  padding-top: 60px;
+}
+
+.skill-row1 {
+  margin: 100px auto 180px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-row2 {
+  margin: 100px auto 150px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.code-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.shower-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+/*-----Contact me----*/
+
+.contact-me {
+  margin: 80px 0px;
+}
+.contact-me-p {
+  margin: 40px auto 70px auto;
+  width: 25%;
+  line-height: 2;
+}
+
+.contact-button {
+  background-color: #51c2d5;
+  border-radius: 10px;
+  color: white;
+  height: 50px;
+  font-size: 25px;
+  padding: 6px 12px;
+  transition-duration: 0.4s
+}
+.contact-button:hover {
+  background-color: #0f3057;
+}
+
+ .btn {
+   color: white;
+   text-decoration: none;
+ }
+
+/*-----bottom-container----*/
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding-bottom: 5%;
+}
+
+.footer-link {
+  color: #11999E;
+  display: inline-block;
+  text-decoration: none;
+  margin: 10px 20px;
+  font-size: 120%;
+  position: relative;
+  top: 50px;
+
+}
+
+.footer-p {
+  color: #EAF6F6;
+  position: relative;
+  top: 60px;
+  font-size: 80%;
+}
